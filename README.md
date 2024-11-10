@@ -5,3 +5,8 @@
 uv sync
 uv run streamlit run streamlit_task.py
 ```
+
+# Digital Ocean
+```
+
+```

@@ -1,0 +1,5 @@
+packages:
+    - name: recommendation
+      functions:
+        - name: recommend
+          runtime: python:default
